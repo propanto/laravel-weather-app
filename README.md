@@ -5,7 +5,7 @@
 Clone the repo locally:
 
 ```sh
-git clone https://github.com/inertiajs/laravel-weather-app.git
+git clone https://github.com/propanto/laravel-weather-app.git
 cd laravel-weather-app
 ```
 
